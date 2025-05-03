@@ -1,10 +1,7 @@
 
 # Multimodal Disease Progression Prediction
 
-
-This project demonstrates a prototype deep learning pipeline for predicting disease progression using multimodal data: electronic health records (EHR), genomic features, and medical imaging. The model is designed to simulate real-world clinical AI applications such as risk stratification or early intervention strategies for chronic conditions like Alzheimer's or cancer.
-
-##  Objective
+# Problem Statement
 Develop an end-to-end AI model combining EHR, genomic, and imaging features to classify disease progression risk in patients.
 
 ##  Tools & Technologies
