@@ -19,9 +19,7 @@ Develop an end-to-end AI model combining EHR, genomic, and imaging features to c
 - Loss curve is visualized and saved as `loss_curve.png`.
 
 
-## 📊 Output Files
+##  Output Files
 - `loss_curve.png` – Visual graph of training loss
 - `executive_summary.txt` – Plaintext report for stakeholders
 
-## 🧠 Author
-Sutanuka Nayak
