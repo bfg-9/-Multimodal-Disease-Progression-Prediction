@@ -1,12 +1,16 @@
 
 # Problem Statement
 Develop an end-to-end AI model combining EHR, genomic, and imaging features to classify disease progression risk in patients.
+Develop a deep learning pipeline that integrates genomic data, medical imaging, and electronic health records to predict disease progression (e.g., Alzheimer's or cancer)
 
 ##  Tools & Technologies
 - Python, PyTorch, torchvision
 - pandas, numpy, matplotlib, scikit-learn
 - ResNet for image processing
 - Fully connected layers for tabular data
+- AI Concepts: Multimodal learning, transformers, CNNs, survival analysis
+
+Combining biological and clinical data modalities, and working with time-series and high-dimensional data.
 
 ##  Methodology
 - Synthetic datasets were generated to mimic real-world data distributions.
