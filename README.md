@@ -1,6 +1,4 @@
 
-# Multimodal Disease Progression Prediction
-
 # Problem Statement
 Develop an end-to-end AI model combining EHR, genomic, and imaging features to classify disease progression risk in patients.
 
