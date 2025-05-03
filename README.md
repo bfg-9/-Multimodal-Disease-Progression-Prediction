@@ -25,5 +25,6 @@ Combining biological and clinical data modalities, and working with time-series 
 
 ##  Output Files
 - `loss_curve.png` – Visual graph of training loss
-- `executive_summary.txt` – Plaintext report for stakeholders
+- ![loss_curve](https://github.com/user-attachments/assets/3de13472-4d6c-4acc-8065-ce7d1c5a7964)
+
 
